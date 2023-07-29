@@ -2,7 +2,7 @@
 Academic Project : Big Data, Cloud Computing, Stochastic Processes, Environmental Data
 
 
-##Goal of this practice :  
+## Goal of this practice :  
 * Work on a platform for cloud computing
 * Use big data tools
 * Manipulate large datasets
@@ -23,7 +23,7 @@ Academic Project : Big Data, Cloud Computing, Stochastic Processes, Environmenta
   BigQuery requests
   * use Google Colab to speak with GCP anBigQuery
 
-###A Jupyter Notebook with 5 questions
+### A Jupyter Notebook with 5 questions
 * Geophysical data:
   * geographic maps
   * time series
