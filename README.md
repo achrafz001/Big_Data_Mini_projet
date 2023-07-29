@@ -2,7 +2,7 @@
 Academic Project : Big Data, Cloud Computing, Stochastic Processes, Environmental Data
 
 
-##Goal of this practice :
+##Goal of this practice : \\
 ● Work on a platform for cloud computing
 ● Use big data tools
 ● Manipulate large datasets
