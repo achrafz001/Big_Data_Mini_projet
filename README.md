@@ -2,7 +2,7 @@
 Academic Project : Big Data, Cloud Computing, Stochastic Processes, Environmental Data
 
 
-##Goal of this practice : \\
+##Goal of this practice : 
 ● Work on a platform for cloud computing
 ● Use big data tools
 ● Manipulate large datasets
@@ -10,7 +10,7 @@ Academic Project : Big Data, Cloud Computing, Stochastic Processes, Environmenta
 ● 5 years of satellite observations (~50Go)
 
 ## The technology behind the GCP and BigQuery :
-● **BigQuery:**
+*  **BigQuery:**
   ○ based on the NoSQL language
   ○ map/reduce on thousands of machines
   ○ machine learning is now available
